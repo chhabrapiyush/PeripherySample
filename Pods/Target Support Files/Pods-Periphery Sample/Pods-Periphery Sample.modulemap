@@ -1,0 +1,6 @@
+framework module Pods_Periphery_Sample {
+  umbrella header "Pods-Periphery Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
